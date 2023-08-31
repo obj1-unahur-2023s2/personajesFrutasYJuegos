@@ -28,7 +28,7 @@ Cuando llega la noche Martín se va a dormir, lo que hace que su energía aument
 
 ### Consideraciones adicionales
 - En ningún momento la energía puede pasar a ser negativa, permanece a lo sumo en 0.
-- El peso de la naranja inicialmente es de 60 Gramos y su color naturalmente naranja.
+- El peso de la mandarina inicialmente es de 60 Gramos y su color naturalmente naranja.
 - Permitir que una manzana se ponga amarilla y de esta manera, pase a proporcionar también 5 unidades de energía
 - La temperatura actual de la ciudad es de 20 grados, pero puede ir cambiando durante el día.
 - Martín inicialmente tiene 100 de energía, no hizo aún actividades y está satisfecho, por lo que empieza feliz.
@@ -43,7 +43,7 @@ Existe un equipo del que Martin forma parte. Es un equipo reducido, formado por 
 - Constatar que todos los integrantes se consideren felices
 
 Algunos de los posibles compañeros de equipo de Martín son:
-- María: Realiza actividades que varían su nivel de endorfina. Su energía se calcula como el doble de su nivel energía más lo que la energia que le aporta su amuleto, que depende de qué color es (5 para el amarillo, 7 para el verde, 14 para el rojo, como en las frutas). Inicia con 100 de endorfina y un amuleto rojo. Su felicidad depende de que su endorfina supere la energía que le aporta su amuleto. C
+- María: Realiza actividades que varían su nivel de endorfina. Su energía se calcula como el doble de su nivel de endorfina más lo que la energia que le aporta su amuleto, que depende de qué color es (5 para el amarillo, 7 para el verde, 14 para el rojo, como en las frutas). Inicia con 100 de endorfina y un amuleto rojo. Su felicidad depende de que su endorfina supere la energía que le aporta su amuleto. C
 - Pepe: Siempre se considera feliz y su energía es 77. 
 - Agregate vos, con una implementación no trivial. 
 
